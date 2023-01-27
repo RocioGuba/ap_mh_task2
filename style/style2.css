@@ -1,0 +1,56 @@
+
+#maqueta2{
+    position:absolute;
+    top: 50px; left: 60%;
+    
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 0 3px 15px;
+    font-size: 160%;
+    background:blue;
+    padding-right:10px;
+    padding-left: 10px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+.principal{
+    background:rgb(43, 219, 43);
+}
+.img{
+width:auto;
+height:300px;
+background-image: url(../assets/design1_image2.jpg);
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+}
+
+h1{
+    margin: 0;
+    font-size: 70px;  
+}
+
+section{
+    color: white;
+    text-align: center;
+    background: black;
+}
+    
+
+.logo{
+    width: 150px;
+    height: 150px;
+    position:absolute;
+    top: 55%; left: 0%;
+    padding: 70px;
+}
+
+#columna2{
+    margin-left:250px;
+    margin-right:0px;
+    margin-top: 10px;
+    }
